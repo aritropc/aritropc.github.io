@@ -27,7 +27,7 @@ site_author = "aritropc"
 # The site_url is the canonical URL for your site. When building online
 # documentation you should set this.
 # Read more: https://zensical.org/docs/setup/basics/#site_url
-#site_url = "https://aritropc.github.io"
+site_url = "https://aritropc.github.io"
 
 # The copyright notice appears in the page footer and can contain an HTML
 # fragment.
@@ -303,3 +303,5 @@ toggle.name = "Switch to light mode"
 #link = "https://github.com/user/repo"
 
 
+[markdown_extensions]
+attr_list = {}

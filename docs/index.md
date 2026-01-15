@@ -2,19 +2,26 @@
 icon: lucide/smile
 ---
 
-![Aritro](https://github.com/aritropc.png){: style="border-radius: 100%; max-height: 10rem; display: block; margin: 0 auto;" }
+<img style="border-radius: 100%; max-height: 10rem; display: block; margin-left: auto; margin-right: auto;" src="https://github.com/aritropc.png">
+
+
+<div align="center" style="font-size: 1rem;" markdown="1">
 
 # Hey! I'm **Aritro** 👋
-{: style="text-align: center" }
+
+</div>
+
+<div align="center" style="font-size: 1rem;" markdown="1">
 
 I'm an AI Consultant dedicated to bridging the gap between business and research 🚀
-{: style="text-align: center" }
 
-&nbsp;
+</div>
 
-* 🏢 Working on Agentic AI for enterprises
-* 🔬 Previously worked on Generative AI (Vision) research 
-* 💻 Building *Zero-to-One* products
-* 🦅 *Btw, I use Garuda!*
+</br>
 
-&nbsp;
+- 🏢 Working on Agentic AI for enterprises
+- 🔬 Previously worked on Generative AI (Vision) research 
+- 💻 Building *Zero-to-One* products
+- 🦅 *Btw, I use Garuda!*
+
+</br>
