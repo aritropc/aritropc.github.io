@@ -1,4 +1,4 @@
-<div align="center" style="font-size: 1.5rem;" markdown="1">
+<div align="center" style="font-size: 2rem;" markdown="1">
 
 Hey! I'm **Aritro** 👋
 
