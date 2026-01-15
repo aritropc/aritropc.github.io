@@ -1,9 +1,13 @@
 <div align="center" style="font-size: 1.5rem;" markdown="1">
-    Hey! I'm **Aritro** 👋
+
+Hey! I'm **Aritro** 👋
+
 </div>
 
 <div align="center" style="font-size: 1.2rem;" markdown="1">
-    An AI Consultant working towards bridging the gap between business and research 🚀
+
+An AI Consultant working towards bridging the gap between business and research 🚀
+
 </div>
 
 </br>
