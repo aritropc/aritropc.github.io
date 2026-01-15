@@ -24,8 +24,11 @@ jobs:
       - run: |
           zensical build --clean
           touch site/.nojekyll
+          echo "Build output structure:"
+          ls -la site/
+
       - uses: actions/upload-pages-artifact@v4
         with:
-          path: site
+          path: ./site
       - uses: actions/deploy-pages@v4
         id: deployment
