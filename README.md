@@ -6,7 +6,7 @@ Hey! I'm **Aritro** 👋
 
 <div align="center" style="font-size: 1.2rem;" markdown="1">
 
-An AI Consultant working towards bridging the gap between business and research 🚀
+I'm an AI Consultant dedicated to bridging the gap between business and research 🚀
 
 </div>
 
