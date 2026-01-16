@@ -5,6 +5,7 @@ site_author = "aritropc"
 site_url = "https://aritropc.github.io"
 nav = [
   { "Hello! 👋" = "index.md" },
+  { "Research" = "research.md" },
 ]
 repo_url = "https://github.com/aritropc/aritropc.github.io"
 repo_name = "aritropc/aritropc.github.io"
